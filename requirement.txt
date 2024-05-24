@@ -1,5 +1,21 @@
+# FILEPATH: /home/seaflux/MedicalChatBot/requirement.txt
+
+# This file contains the list of required Python packages and their versions for the MedicalChatBot project.
+
+# Required Packages:
+# - ctransformers==0.2.5: A package for text transformation and preprocessing.
+# - sentence-transformers==2.2.2: A package for converting text into embeddings.
+# - pinecone-client: A client library for interacting with the Pinecone service.
+# - langchain==0.0.225: A package for language processing and analysis.
+# - flask: A micro web framework for building web applications.
+# - pypdf: A package for reading PDF files.
+# - python-dotenv: A package for managing environment variables.
+# - langchain-community: A community-driven extension for the langchain package.
+
+# Note: Make sure to install these packages before running the MedicalChatBot project.
+
 ctransformers==0.2.5
-sentence-transformers==2.2.2
+sentence-transformers==2.2.2 #For Text to Embedding
 pinecone-client
 langchain==0.0.225
 flask
