@@ -12,13 +12,18 @@
 # - python-dotenv: A package for managing environment variables.
 # - langchain-community: A community-driven extension for the langchain package.
 
-# Note: Make sure to install these packages before running the MedicalChatBot project.
+# Note: Make sure to install these packages before running the MedicalChatBot project
 
 ctransformers==0.2.5
 sentence-transformers==2.2.2 #For Text to Embedding
 pinecone-client
-langchain==0.0.225
+langchain
 flask
 pypdf
 python-dotenv
 langchain-community
+
+
+
+
+# pysqlite3-binary
