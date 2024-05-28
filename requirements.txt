@@ -23,7 +23,7 @@ pypdf
 python-dotenv
 langchain-community
 
-
+-e .
 
 
 # pysqlite3-binary
