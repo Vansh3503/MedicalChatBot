@@ -70,3 +70,4 @@ open up localhost:
 - Meta Llama2
 - Pinecone
 
+![Chatbot]("Screenshot from 2024-05-30 16-38-26.png")
